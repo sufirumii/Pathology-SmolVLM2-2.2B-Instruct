@@ -1,4 +1,4 @@
-# athology-SmolVLM2-2.2B
+# Pathology-SmolVLM2-2.2B
 
 ** MedNemesis 2.2B Pathology
 A compact, domain-specialized visual question answering model for pathology
